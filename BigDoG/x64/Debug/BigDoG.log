@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\dev\bigdog\bigdog\src\main.cpp(190): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-  BigDoG.vcxproj -> C:\dev\BigDoG\x64\Debug\BigDoG.exe
